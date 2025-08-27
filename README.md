@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhammad Mubeen
 
-<!--
-**mubeen-2007/mubeen-2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Junior WordPress & PHP Developer** | Full-stack foundations with HTML, CSS, JavaScript, Bootstrap, and MySQL.  
+💻 Passionate about building functional, responsive, and user-friendly web applications.  
+📍 Based in Pakistan | Open to remote & onsite opportunities.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Tools
+- **Languages:** PHP, JavaScript, HTML, CSS, SQL  
+- **Frameworks & CMS:** WordPress, Bootstrap  
+- **Databases:** MySQL  
+- **Tools & Platforms:** Git, GitHub, VS Code, XAMPP  
+- **Currently Exploring:** Node.js (CI/CD, backend workflows)
+
+---
+
+## 🚀 What I Build
+- WordPress-based dynamic websites  
+- PHP + MySQL CRUD systems  
+- Frontend UI with Bootstrap/JavaScript  
+- Portfolio & eCommerce websites  
+
+---
+
+## 📌 Featured Projects
+*(Repos will be added soon — placeholders for now)*  
+
+### 🌟 Gold Glow Cosmetic Website
+A cosmetic brand website built with **PHP + MySQL**, featuring product showcase and dynamic pages.  
+**Tech:** PHP, MySQL, Bootstrap, HTML, CSS  
+
+### 🎨 Frontend Websites
+Collection of responsive UI projects with modern design and interactive components.  
+**Tech:** HTML, CSS, JavaScript, Bootstrap  
+
+---
+
+## 📊 GitHub Stats
+![Mubeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=mubeen-2007&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mubeen-2007&layout=compact)  
+
+---
+
+## 📫 How to Reach Me
+- 📧 Email: [mubi1477@gmail.com](mailto:mubi1477@gmail.com)  
+- 💼 LinkedIn: [Muhammad Mubeen](https://www.linkedin.com/in/muhammad-mubeen-a9a41a352)  
+
+---
+
+⚡ *Currently seeking junior roles in PHP/WordPress development.*
